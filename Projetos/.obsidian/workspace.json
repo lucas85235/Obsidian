@@ -1,24 +1,57 @@
 {
   "main": {
-    "id": "b44713412eb468f3",
+    "id": "8d6ac653214e9068",
     "type": "split",
     "children": [
       {
-        "id": "18265228910a4f65",
+        "id": "f45fa49ed92a88ff",
         "type": "tabs",
+        "dimension": 76.07868020304569,
         "children": [
           {
-            "id": "a5a426db14e28ba2",
+            "id": "8020c67b20cf3a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meditações/Welcome.md",
+                "file": "Objetivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Objetivos"
+            }
+          },
+          {
+            "id": "c6ae2ee3e17a1e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objetivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetivos"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "56ca5db849ddb718",
+        "type": "tabs",
+        "dimension": 23.92131979695431,
+        "children": [
+          {
+            "id": "5bace577ddcc7c1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +60,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "699aac29a5423e1b",
+    "id": "66741f4ffff86561",
     "type": "split",
     "children": [
       {
-        "id": "d0ac0bf95917d491",
+        "id": "9942d858b34001ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f4418385e5ef82",
+            "id": "d0ad11dd603a0687",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +81,7 @@
             }
           },
           {
-            "id": "1ce694e2b21aa4f0",
+            "id": "a8e7b1fbabafa48a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +98,7 @@
             }
           },
           {
-            "id": "90e02ff42389e2eb",
+            "id": "309d685f6564daba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +114,20 @@
     "width": 300
   },
   "right": {
-    "id": "877f004686651186",
+    "id": "e1e0aa37d783cb58",
     "type": "split",
     "children": [
       {
-        "id": "ae8cce0625b97ef9",
+        "id": "4f3c27879fbb7a72",
         "type": "tabs",
         "children": [
           {
-            "id": "2f134a613484c2ba",
+            "id": "2625d0c3b2e9462c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Defiverso/Módulo 3/A Teoria dos Ciclos.md",
+                "file": "Objetivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +137,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Teoria dos Ciclos"
+              "title": "Backlinks for Objetivos"
             }
           },
           {
-            "id": "795cccb36d4ccdd7",
+            "id": "72de8a89ad78da39",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/Defiverso/Módulo 3/A Teoria dos Ciclos.md",
+                "file": "Objetivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Teoria dos Ciclos"
+              "title": "Outgoing links from Objetivos"
             }
           },
           {
-            "id": "5eea912edbe50c2d",
+            "id": "f935e2ad4da80d26",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,15 +168,15 @@
             }
           },
           {
-            "id": "30315011304af73c",
+            "id": "60917a49e8cede17",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/Defiverso/Módulo 3/A Teoria dos Ciclos.md"
+                "file": "Objetivos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Teoria dos Ciclos"
+              "title": "Outline of Objetivos"
             }
           }
         ]
@@ -163,50 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3f4418385e5ef82",
+  "active": "c6ae2ee3e17a1e57",
   "lastOpenFiles": [
-    "Estudos Técnicos/Welcome.md",
-    "Projetos/Negócios/Estúdio de Jogos.md",
-    "Meditações/Welcome.md",
-    "Projetos/Welcome.md",
-    "Projetos",
-    "README.md",
-    "Untitled.canvas",
-    "2025-03-10.md",
-    "Crypto/Defiverso/O Mapa/Módulo 6/A Primeira Conexão.md",
-    "Crypto/Defiverso/O Mapa/Módulo 5/O Portal do DeFi.md",
-    "Crypto/Defiverso/O Mapa/Módulo 6/Untitled",
-    "Crypto/Defiverso/O Mapa/Módulo 4/A Chave do Sucesso.md",
-    "Crypto/Defiverso/Guia do Predador/No caminho certo.md",
-    "Crypto/Defiverso/O Mapa/Módulo 1/Dentro da Blockchain.md",
-    "Crypto/Defiverso/O Mapa/Módulo 3/A Teoria dos Ciclos.md",
-    "Crypto/Defiverso/Guia do Predador",
-    "Crypto/Defiverso/O Mapa",
-    "Crypto/Defiverso/O Mapa/Módulo 6",
-    "Crypto/Defiverso/O Mapa/Módulo 5",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Quando Vender.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121808.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Análise Técnica.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121548.png",
-    "Crypto/Defiverso/O Mapa/Módulo 3/Indicadores.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120601.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121009.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120951.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120929.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120914.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120904.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120854.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120825.png",
-    "Crypto/Defiverso/O Mapa/Módulo 2/Decifrando os Enígmas.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4",
-    "Crypto/Defiverso/O Mapa/Módulo 2",
-    "Crypto/Defiverso/O Mapa/Módulo 1",
-    "Crypto/Defiverso/Untitled.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Qual a diferença de um minerador e um nó validador da rede.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Como funciona a mineração de Bitcoin.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Links e materiais Módulo 1.md",
-    "2024-12-11.md",
-    "Untitled 1.canvas"
+    "Negócios/Estúdio de Jogos.md",
+    "Negócios",
+    "Objetivos.md",
+    "Renda Onliine/Produção de conteúdo.md",
+    "Renda Onliine/Canal no Youtube.md",
+    "Renda Onliine"
   ]
 }

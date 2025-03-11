@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "b44713412eb468f3",
+    "id": "1d8efb8d2801accf",
     "type": "split",
     "children": [
       {
-        "id": "18265228910a4f65",
+        "id": "649e3eee8a4733d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a5a426db14e28ba2",
+            "id": "f63ca4549daac0ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meditações/Welcome.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,20 +22,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "dbe252e4fac5972a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22c0185912786086",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "699aac29a5423e1b",
+    "id": "dd38277b85c64407",
     "type": "split",
     "children": [
       {
-        "id": "d0ac0bf95917d491",
+        "id": "9ba885f5f3b14405",
         "type": "tabs",
         "children": [
           {
-            "id": "a3f4418385e5ef82",
+            "id": "17dc63748ff73aba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "1ce694e2b21aa4f0",
+            "id": "8f4fa38f11251ec1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "90e02ff42389e2eb",
+            "id": "feecea2a4f5db2aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "877f004686651186",
+    "id": "03918d36d74eb60f",
     "type": "split",
     "children": [
       {
-        "id": "ae8cce0625b97ef9",
+        "id": "dc53cba744be3a47",
         "type": "tabs",
         "children": [
           {
-            "id": "2f134a613484c2ba",
+            "id": "88751e4b8daf0300",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Defiverso/Módulo 3/A Teoria dos Ciclos.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Teoria dos Ciclos"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "795cccb36d4ccdd7",
+            "id": "4d2bcd82df5838f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/Defiverso/Módulo 3/A Teoria dos Ciclos.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Teoria dos Ciclos"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "5eea912edbe50c2d",
+            "id": "2fcfed75c9ac56c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,15 +151,15 @@
             }
           },
           {
-            "id": "30315011304af73c",
+            "id": "0b0813de16040c4a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/Defiverso/Módulo 3/A Teoria dos Ciclos.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Teoria dos Ciclos"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -163,50 +179,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3f4418385e5ef82",
+  "active": "f63ca4549daac0ac",
   "lastOpenFiles": [
-    "Estudos Técnicos/Welcome.md",
-    "Projetos/Negócios/Estúdio de Jogos.md",
-    "Meditações/Welcome.md",
-    "Projetos/Welcome.md",
-    "Projetos",
-    "README.md",
-    "Untitled.canvas",
-    "2025-03-10.md",
-    "Crypto/Defiverso/O Mapa/Módulo 6/A Primeira Conexão.md",
-    "Crypto/Defiverso/O Mapa/Módulo 5/O Portal do DeFi.md",
-    "Crypto/Defiverso/O Mapa/Módulo 6/Untitled",
-    "Crypto/Defiverso/O Mapa/Módulo 4/A Chave do Sucesso.md",
-    "Crypto/Defiverso/Guia do Predador/No caminho certo.md",
-    "Crypto/Defiverso/O Mapa/Módulo 1/Dentro da Blockchain.md",
-    "Crypto/Defiverso/O Mapa/Módulo 3/A Teoria dos Ciclos.md",
-    "Crypto/Defiverso/Guia do Predador",
-    "Crypto/Defiverso/O Mapa",
-    "Crypto/Defiverso/O Mapa/Módulo 6",
-    "Crypto/Defiverso/O Mapa/Módulo 5",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Quando Vender.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121808.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Análise Técnica.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121548.png",
-    "Crypto/Defiverso/O Mapa/Módulo 3/Indicadores.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120601.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121009.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120951.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120929.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120914.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120904.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120854.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120825.png",
-    "Crypto/Defiverso/O Mapa/Módulo 2/Decifrando os Enígmas.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4",
-    "Crypto/Defiverso/O Mapa/Módulo 2",
-    "Crypto/Defiverso/O Mapa/Módulo 1",
-    "Crypto/Defiverso/Untitled.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Qual a diferença de um minerador e um nó validador da rede.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Como funciona a mineração de Bitcoin.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Links e materiais Módulo 1.md",
-    "2024-12-11.md",
-    "Untitled 1.canvas"
+    "Welcome.md"
   ]
 }
