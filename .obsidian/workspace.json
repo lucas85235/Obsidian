@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "18265228910a4f65",
+        "id": "9021db6d68e46e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "a5a426db14e28ba2",
+            "id": "bf78c5909841c7e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Negócios/Estúdio de Jogos.md",
+                "file": "Projetos/1. Sardinha Studios/Estúdio de Jogos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Estúdio de Jogos"
             }
+          },
+          {
+            "id": "e8b3aefd91f3df9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/Objetivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetivos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "right": {
     "id": "877f004686651186",
@@ -193,18 +208,40 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a5a426db14e28ba2",
+  "active": "a3f4418385e5ef82",
   "lastOpenFiles": [
-    "Projetos/Negócios/Editais de Cultura.md",
-    "Projetos/Negócios/Estúdio de Jogos.md",
-    "Projetos/Negócios/Lei Rouanet.md",
-    "Projetos/Negócios/Programa Prioritário.md",
-    "Projetos/Negócios/Sardinha Studios.md",
+    "Projetos/2. Renda Onliine/Canal no Youtube.md",
+    "Projetos/2. Renda Onliine/Produção de conteúdo.md",
+    "Projetos/1. Sardinha Studios/Sardinha Studios.md",
+    "Projetos/1. Sardinha Studios/Estúdio de Jogos.md",
+    "Projetos/1. Sardinha Studios/Informações Internas/Time do Sardinha Studios.canvas",
+    "Projetos/1. Sardinha Studios/Informações Internas/Lista de Jogos do Estudio.md",
+    "Projetos/1. Sardinha Studios/Informações Internas/Consoles DevKit.md",
     "Projetos/Objetivos.md",
+    "Projetos/1. Sardinha Studios/Captação de Recursos/Lei Rouanet.md",
+    "Projetos/2. Renda Onliine/Untitled",
+    "Projetos/1. Sardinha Studios/Captação de Recursos/Programa Prioritário.md",
+    "Projetos/1. Sardinha Studios/Informações Internas",
+    "Arquivos/Sardinha Studios Time/Rodrigo.jpg",
+    "Arquivos/Sardinha Studios Time",
+    "Arquivos/Sardinha Studios Time/Lucas.jpg",
+    "Arquivos/Sardinha Studios Time/Caio.jpg",
+    "Arquivos",
+    "Arquivos/Sardinha Studios Time/Jõao.jpg",
+    "Arquivos/Sardinha Studios Time/Kazu.jpg",
+    "Arquivos/Sardinha Studios Time/Hannah.jpg",
+    "Projetos/1. Sardinha Studios/Captação de Recursos/Editais de Cultura.md",
+    "Projetos/1. Sardinha Studios/Captação de Recursos",
+    "Projetos/Negócios/Untitled",
+    "Projetos/1. Sardinha Studios",
+    "().md",
+    "[[Projetos/Negócios/Consoles.md",
+    "[[Projetos/Negócios",
+    "[[Projetos",
+    "[[.md",
     "Meditações/Welcome.md",
     "Estudos Técnicos/Welcome.md",
     "Projetos/Welcome.md",
@@ -214,38 +251,15 @@
     "2025-03-10.md",
     "Crypto/Defiverso/O Mapa/Módulo 6/A Primeira Conexão.md",
     "Crypto/Defiverso/O Mapa/Módulo 5/O Portal do DeFi.md",
-    "Crypto/Defiverso/O Mapa/Módulo 6/Untitled",
     "Crypto/Defiverso/O Mapa/Módulo 4/A Chave do Sucesso.md",
     "Crypto/Defiverso/Guia do Predador/No caminho certo.md",
     "Crypto/Defiverso/O Mapa/Módulo 1/Dentro da Blockchain.md",
     "Crypto/Defiverso/O Mapa/Módulo 3/A Teoria dos Ciclos.md",
-    "Crypto/Defiverso/Guia do Predador",
-    "Crypto/Defiverso/O Mapa",
-    "Crypto/Defiverso/O Mapa/Módulo 6",
-    "Crypto/Defiverso/O Mapa/Módulo 5",
     "Crypto/Defiverso/O Mapa/Módulo 4/Quando Vender.md",
     "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121808.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Análise Técnica.md",
     "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121548.png",
-    "Crypto/Defiverso/O Mapa/Módulo 3/Indicadores.md",
     "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120601.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens",
     "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211121009.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120951.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120929.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120914.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120904.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120854.png",
-    "Crypto/Defiverso/O Mapa/Módulo 4/Imagens/Pasted image 20241211120825.png",
-    "Crypto/Defiverso/O Mapa/Módulo 2/Decifrando os Enígmas.md",
-    "Crypto/Defiverso/O Mapa/Módulo 4",
-    "Crypto/Defiverso/O Mapa/Módulo 2",
-    "Crypto/Defiverso/O Mapa/Módulo 1",
-    "Crypto/Defiverso/Untitled.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Qual a diferença de um minerador e um nó validador da rede.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Como funciona a mineração de Bitcoin.md",
-    "Crypto/Defiverso/Módulo 1 - Dentro da Blockchain/Links e materiais Módulo 1.md",
-    "2024-12-11.md",
     "Untitled 1.canvas"
   ]
 }

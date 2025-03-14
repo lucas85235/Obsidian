@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6376ff3539c6dc4d","type":"text","text":"# **Designer** ","x":-620,"y":120,"width":500,"height":560,"color":"1"},
+		{"id":"08a8787dcd0ff527","type":"file","file":"Arquivos/Sardinha Studios Time/Hannah.jpg","x":-570,"y":240,"width":400,"height":400},
+		{"id":"b8daf3859d7136f5","type":"text","text":"# **Artista** ","x":59,"y":120,"width":500,"height":560,"color":"1"},
+		{"id":"7eddb1b9c50f2392","type":"file","file":"Arquivos/Sardinha Studios Time/Rodrigo.jpg","x":109,"y":240,"width":400,"height":400},
+		{"id":"726b9940b2ad10db","type":"text","text":"# **Programador** ","x":-1310,"y":120,"width":500,"height":560,"color":"5"},
+		{"id":"df3c6b6cd7f677d8","type":"file","file":"Arquivos/Sardinha Studios Time/Kazu.jpg","x":-1260,"y":240,"width":400,"height":400},
+		{"id":"d626b02a3cc8d753","type":"text","text":"# **Sócios** ","x":-1120,"y":-700,"width":1500,"height":580,"color":"5"},
+		{"id":"f5837ab8bf23d41a","type":"file","file":"Arquivos/Sardinha Studios Time/Lucas.jpg","x":-1060,"y":-590,"width":400,"height":400},
+		{"id":"b7dd5c3a4f5c4a88","type":"file","file":"Arquivos/Sardinha Studios Time/Jõao.jpg","x":-580,"y":-590,"width":400,"height":400},
+		{"id":"14707338b1413d08","type":"file","file":"Arquivos/Sardinha Studios Time/Caio.jpg","x":-91,"y":-590,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"274dbb024bb82ea3","fromNode":"d626b02a3cc8d753","fromSide":"bottom","toNode":"726b9940b2ad10db","toSide":"top"},
+		{"id":"b65cf872a32e1621","fromNode":"d626b02a3cc8d753","fromSide":"bottom","toNode":"6376ff3539c6dc4d","toSide":"top"},
+		{"id":"a2d33755caafc48c","fromNode":"d626b02a3cc8d753","fromSide":"bottom","toNode":"b8daf3859d7136f5","toSide":"top"}
+	]
+}

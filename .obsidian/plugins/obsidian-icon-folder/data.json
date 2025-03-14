@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiImages",
+      "LiFiles",
+      "LiGamepad2",
+      "LiFolder"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +32,16 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Crypto": "LiFolder",
+  "Estudos Técnicos": "LiFolder",
+  "Meditações": "LiFolder",
+  "Projetos": "LiFolder",
+  "Projetos/1. Sardinha Studios": "LiFolder",
+  "Projetos/1. Sardinha Studios/Captação de Recursos": "LiFolder",
+  "Arquivos": "LiFiles",
+  "Arquivos/Sardinha Studios Time": "LiImages",
+  "Projetos/1. Sardinha Studios/Informações Internas": "LiFolder",
+  "Projetos/2. Renda Onliine": "LiFolder",
+  "Projetos/3. Negócios": "LiFolder"
 }
